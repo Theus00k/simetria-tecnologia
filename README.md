@@ -1,2 +1,2 @@
 # simetria-tecnologia
-Desenvolvimento do site
+Desenvolvimento do site Simietria tecnologia
