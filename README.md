@@ -1,11 +1,10 @@
-# simetria-tecnologia
-Desenvolvimento do site Simetria Tecnologia
-Desenvolvido em parceria com o projeto apprender
-IFBA
+# Agencia Simetria
+Desenvolvimento do site Agencia Simetria
+Desenvolvido em parceria com o projeto Apprender - IFBA
 
 Desenvolvedores:  
-Daniel Santos
-Matheus RX
+Daniel Santos 
+Matheus RX  
 
 Links uteis:  
 http://fontawesome.io/  
