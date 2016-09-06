@@ -1,13 +1,16 @@
 # Agencia Simetria
-Desenvolvimento do site Agencia Simetria
-Desenvolvido em parceria com o projeto Apprender - IFBA
+Desenvolvimento do site Agencia Simetria	
+Parceiro - Instituto Federal da Bahia - **IFBA**	
+Projeto **APPrender**
 
-Desenvolvedores:  
+## Participantes:
 
-Daniel Santos   
-Matheus RX  
+- Daniel Santos   
+	- CEO & Founder		
+	- Desenvolvedor		
+- Matheus RX		
+	-	Desenvolvedor
 
-Links uteis:  
+**Links uteis:**  
 http://fontawesome.io/  
-http://fontawesome.io/  
-https://www.iconfinder.com
+https://www.iconfinder.com	
