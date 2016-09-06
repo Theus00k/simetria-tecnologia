@@ -13,5 +13,68 @@
 	outline: none;
 }
 
-/* CABEÇALHO DO SITE */
+img{
+	max-width: 100%;
+}
 
+ul{
+	list-style: none;
+}
+
+a{
+	text-decoration: none;
+}
+
+h2{
+	font-size: 1.5em;
+	color: 333;
+}
+
+p{
+	font-size: 1em;
+	color: #777;
+}
+
+
+/* CABEÇALHO */
+
+.cabecalho {
+	width: 100%;
+	float: left;
+	padding: 50px 8%;
+	background-color: #13c7ae;
+}
+
+.logo a{
+	width: 128px;
+	height: 128px;
+	float: left;
+	background: url(../img/logo.png) no-repeat;
+	font-size: 0;
+
+}
+
+.cabecalho form{
+	width: 30%;
+	float: right;
+}
+
+/*85% do valor do total do da classe .cabecalho
+ 15% do valor do total do da classe .cabecalho 
+ Totalizando 100% da classe .cabecalho*/
+
+
+.cabecalho input[type="text"]{
+	width: 85%; /* 85% do valor do total do da classe .cabecalho */
+	float: left;
+	padding: 15px 10px;
+}
+
+.cabecalho button{
+	width: 15%; /* 15% do valor do total do da classe .cabecalho */
+	float: right;
+	padding: 19px 10px;
+	background-color: #0cae98;
+	color: #fff;
+	cursor: pointer; /* PROPRIEDADE TRANSFORMA O PONTEIRO NO MOUSE NUMA "MÃOZINHA" QUANDO PASSADO SOBREO ICONE PESQUISA*/
+}
