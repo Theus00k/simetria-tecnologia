@@ -3,7 +3,8 @@ Desenvolvimento do site Agencia Simetria
 Desenvolvido em parceria com o projeto Apprender - IFBA
 
 Desenvolvedores:  
-Daniel Santos 
+
+Daniel Santos   
 Matheus RX  
 
 Links uteis:  
